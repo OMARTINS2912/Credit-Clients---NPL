@@ -1,0 +1,100 @@
+Loan Amount (N),Age,Sex,Interest rates (%),Repayment Period,Amort,State,Non-Performing amount
+"9,007,000",59,2,10.5,Monthly,Interest only,Oyo,"9,007,000"
+"2,000,000",48,1,18.6,Annual,Principal and Interest,Oyo,"2,000,000"
+"6,000,050",24,1,19.2,Four,Interest only,Oyo,"6,000,050"
+"700,000",72,2,19.4,Quarterly,Principal and Interest,Oyo,"700,000"
+"200,000",23,1,19.6,Monthly,Interest only,Oyo,"200,000"
+"4,000,000",50,1,19.9,Quarterly,Interest only,OY,0
+"60,000,000",22,1,20.1,Quarterly,Principal and Interest,Oyo,"60,000,000"
+"540,000",19,1,19.2,Quarterly,Interest only,Oyo,0
+"15,000",29,2,19.4,Quarterly,Principal and Interest,Oyo,0
+"5,670,888",27,1,19.6,Annual,Principal and Interest,Oyo,0
+"6,700,000",48,1,19.9,Quarterly,Principal and Interest,Lagos,0
+"14,507,000",21,1,20.1,Quarterly,Principal and Interest,Lagos,0
+"2,050,000",42,1,20.3,Quarterly,Principal and Interest,Lagos,0
+"6,000,950",60,1,20.4,Annual,Principal and Interest,Lagos,0
+"7,006,000",35,1,20.4,Quarterly,Principal and Interest,Lagos,"7,006,000"
+"670,000",53,1,20.5,Quarterly,Principal and Interest,Lagos,"670,000"
+"4,089,000",41,1,20.5,Quarterly,Interest only,Lagos,"4,089,000"
+"6,090,000",50,1,21,Quarterly,Principal and Interest,Lagos,0
+"549,000",29,1,21,Quarterly,Principal and Interest,Lagos,0
+"1,500,900",35,1,21.1,Quarterly,Principal and Interest,Lagos,0
+"5,670,500",57,1,21.7,Quarterly,Principal and Interest,Lagos,0
+"6,707,000",37,1,21.8,M,Interest only,Lagos,0
+"10,007,000",36,1,21.9,A,Principal and Interest,Lagos,0
+"2,000,000",36,2,22,Annual,Principal and Interest,Lagos,0
+"6,000,050",53,1,22.1,Quarterly,Principal and Interest,Lagos,0
+"700,000",67,2,22.5,Quarterly,Principal and Interest,Lagos,0
+"200,000",34,2,22.6,Quarterly,Principal and Interest,Lagos,0
+"4,000,000",49,1,22.7,Quarterly,Principal and Interest,Lagos,0
+"60,000,000",39,1,22.9,Quarterly,Principal and Interest,Lagos,0
+"540,000",20,1,22.9,Monthly,Principal and Interest,Lagos,0
+"15,000",22,1,23,Quarterly,Principal and Interest,Lagos,0
+"5,670,888",56,2,23.1,Annual,Principal and Interest,Lagos,0
+"6,700,000",44,1,23.1,Quarterly,Principal and Interest,Lagos,0
+"14,507,000",62,2,23.5,Quarterly,Principal and Interest,Lagos,0
+"2,050,000",46,2,23.5,Annual,Principal and Interest,Lagos,0
+"6,000,950",59,2,23.6,Monthly,Principal and Interest,Lagos,"6,000,950"
+"7,006,000",53,1,23.7,Quarterly,Principal and Interest,Lagos,"7,006,000"
+"670,000",61,1,24,Annual,Principal and Interest,Lagos,0
+"4,089,000",66,2,24,Annual,Principal and Interest,Lagos,0
+"6,090,000",67,2,24,Monthly,Interest only,Lagos,0
+"549,000",52,1,24,Once,Principal and Interest,Lagos,0
+"1,500,900",36,2,24.1,Quarterly,Principal and Interest,Ogun,0
+"5,670,500",54,1,24.2,Annual,Interest only,Ogun,0
+"6,707,000",25,2,24.3,Quarterly,Principal and Interest,Ogun,0
+"6,090,000",52,2,24.3,Quarterly,Principal and Interest,Ogun,0
+"549,000",63,1,24.4,Monthly,Interest only,Ogun,0
+"1,500,900",52,2,24.5,Quarterly,Principal and Interest,Ogun,0
+"5,670,500",34,2,24.7,Annual,Principal and Interest,Ogun,0
+"6,707,000",41,1,24.7,Monthly,Principal and Interest,Ogun,0
+"10,007,000",46,2,24.7,Quarterly,Principal and Interest,Ogun,0
+"2,000,000",27,1,24.8,Annual,Principal and Interest,Ogun,0
+"6,000,050",46,1,24.9,Monthly,Interest only,Ogun,0
+"700,000",60,2,25,Quarterly,Principal and Interest,Ogun,0
+"2,000,000",30,2,25.2,Annual,Principal and Interest,Ogun,0
+"6,000,050",33,1,25.3,Quarterly,Principal and Interest,Ogun,"6,000,050"
+"700,000",38,1,25.4,Quarterly,Principal and Interest,Ogun,0
+"200,000",32,2,25.4,Monthly,Principal and Interest,Ogun,0
+"4,000,000",34,1,25.5,Quarterly,Principal and Interest,Ogun,0
+"60,000,000",50,2,25.6,Quarterly,Principal and Interest,Ogun,0
+"540,000",58,1,25.7,Monthly,Principal and Interest,Ogun,0
+"15,000",41,2,25.7,Quarterly,Interest only,Ogun,0
+"5,670,888",67,2,25.8,Monthly,Interest only,Ekiti,0
+"6,700,000",61,1,25.8,Monthly,Principal and Interest,Ekiti,0
+"14,507,000",49,2,25.9,Quarterly,Principal and Interest,Ekiti,0
+"2,050,000",25,1,26,Quarterly,Principal and Interest,Ekiti,0
+"6,000,950",29,1,26,Quarterly,Principal and Interest,Ekiti,0
+"7,006,000",66,2,26,Quarterly,Principal and Interest,Ekiti,0
+"670,000",66,2,19.4,Annual,Principal and Interest,Ekiti,0
+"4,089,000",50,2,19.6,Monthly,Principal and Interest,Ekiti,"4,089,000"
+"6,090,000",52,2,19.9,Quarterly,Principal and Interest,Ekiti,0
+"549,000",37,2,20.1,Quarterly,Principal and Interest,Ekiti,0
+"1,500,900",43,1,20.3,M,Principal and Interest,Ekiti,0
+"5,670,500",38,1,20.4,Monthly,Principal and Interest,Ekiti,0
+"6,707,000",64,2,20.4,M,Principal and Interest,Ekiti,0
+"9,007,000",46,1,19.4,Monthly,Principal and Interest,Ekiti,0
+"2,000,000",68,2,19.6,Annual,Principal and Interest,Ekiti,0
+"6,000,050",68,1,19.9,Quarterly,Principal and Interest,Ekiti,0
+"700,000",48,2,20.1,Quarterly,Principal and Interest,Ekiti,0
+"200,000",37,2,20.3,Quarterly,Principal and Interest,Ekiti,0
+"4,000,000",65,2,20.4,Monthly,Principal and Interest,Ekiti,0
+"60,000,000",56,2,20.4,Quarterly,Principal and Interest,Osun,0
+"540,000",52,1,19.4,Quarterly,Principal and Interest,Osun,0
+"15,000",35,1,19.6,Quarterly,Principal and Interest,Osun,0
+"5,670,888",40,2,19.9,Annual,Principal and Interest,Osun,0
+"6,700,000",48,1,20.1,Monthly,Principal and Interest,Osun,0
+"14,507,000",31,1,20.3,Monthly,Principal and Interest,Osun,0
+"2,050,000",29,1,20.4,Quarterly,Principal and Interest,Osun,0
+"6,000,950",37,1,20.4,Monthly,Interest only,Osun,0
+"7,006,000",47,1,19.4,Annual,Principal and Interest,Osun,0
+"670,000",32,1,19.6,Quarterly,Principal and Interest,Osun,0
+"4,089,000",61,1,19.9,M,Principal and Interest,Osun,0
+"6,090,000",42,1,20.1,Quarterly,Interest only,Lagos,0
+"549,000",61,2,20.3,Quarterly,Principal and Interest,Lagos,0
+"1,500,900",60,2,20.4,Quarterly,Principal and Interest,Lagos,0
+"5,670,500",61,2,20.4,Quarterly,Interest only,Lagos,0
+"6,707,000",48,2,19.4,Quarterly,Interest only,Lagos,0
+"10,007,000",61,1,19.6,Quarterly,Principal and Interest,Lagos,0
+"2,000,000",41,1,19.9,Quarterly,Principal and Interest,Lagos,0
+"6,000,050",58,2,20.1,Annual,Interest only,Lagos,0
